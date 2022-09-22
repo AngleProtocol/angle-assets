@@ -1,4 +1,4 @@
-# <img src="./2_angle-icon-only/3-fill/SVG/angle-mark-topview-1.svg" alt="Angle Branding Assets" height="40px"> Angle Branding Assets
+# <img src="./2_protocol-icon-only/3-fill/SVG/angle-mark-topview-1.svg" alt="Angle Branding Assets" height="40px"> Angle Branding Assets
 
 A repository for [Angle Protocol](https://angle.money) branding assets.
 
