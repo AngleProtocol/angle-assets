@@ -4,6 +4,8 @@ A repository for [Angle Protocol](https://angle.money) branding assets.
 
 You should use these assets when showcasing an Angle integration, or creating visual content.
 
+Discover all of them on our [Notion page](https://anglemoney.notion.site/Angle-Media-Assets-be211b3e9d7d4fb9965048825c88f66c?pvs=4).
+
 ## Colors
 
 Angle's main colors are:
